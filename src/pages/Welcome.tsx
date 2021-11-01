@@ -40,7 +40,7 @@ export default (): React.ReactNode => {
             <FormattedMessage id="pages.welcome.link" defaultMessage="Welcome" />
           </a>
         </Typography.Text>
-        <CodePreview>1111111</CodePreview>
+        <CodePreview>2222222222</CodePreview>
         <Typography.Text
           strong
           style={{
